@@ -8,6 +8,8 @@
 
 ### 📥 [Скачати finddupes.py](finddupes.py) &nbsp;|&nbsp; [Download finddupes.py](finddupes.py)
 
+### 📖 [Історія створення (укр)](article.html) &nbsp;|&nbsp; [История создания (рус)](article.html#рус) &nbsp;|&nbsp; [Backstory (en)](article.html#eng)
+
 ---
 
 <a id="укр"></a>
