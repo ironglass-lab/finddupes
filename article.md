@@ -40,7 +40,7 @@
 
 ### Код
 
-Виклав на GitHub — [`finddupes.py`](ПОСИЛАННЯ_НА_РЕПОЗИТОРІЙ): простий інструмент, який
+Виклав на GitHub — [`finddupes.py`](https://github.com/ironglass-lab/finddupes): простий інструмент, який
 вирішив мою власну проблему з архівом майстерні, можливо, знадобиться комусь ще з такою самою
 задачею.
 
@@ -85,7 +85,7 @@
 
 ### Код
 
-Выложил на GitHub — [`finddupes.py`](ССЫЛКА_НА_РЕПОЗИТОРИЙ): простой инструмент, который
+Выложил на GitHub — [`finddupes.py`](https://github.com/ironglass-lab/finddupes): простой инструмент, который
 решил мою собственную проблему с архивом мастерской, возможно, пригодится кому-то ещё с той же
 задачей.
 
@@ -132,7 +132,7 @@ and run it.
 
 ### The code
 
-I put it up on GitHub — [`finddupes.py`](LINK_TO_REPOSITORY): a simple tool that solved my own
+I put it up on GitHub — [`finddupes.py`](https://github.com/ironglass-lab/finddupes): a simple tool that solved my own
 workshop-archive problem, and might be useful to someone else with the same one.
 
 ---
